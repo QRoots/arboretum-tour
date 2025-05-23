@@ -32,3 +32,4 @@
       A lifelong sketcher, Palmer began exhibiting his plant drawings in the 1930s. In retirement, he devoted himself to recording all the plants of Delaware County. When he finished working on plants, he moved on to butterflies, moths, and mushrooms.
     </p>
   </body>
+</html>
