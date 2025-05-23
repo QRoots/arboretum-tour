@@ -2,9 +2,9 @@
   <html lang="en">
 
   <head>
-    <title>
+    <h3>
       Arboretum Tour Website
-    </title>
+    </h3>
   </head>
 
   <body>
